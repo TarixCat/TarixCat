@@ -1,11 +1,14 @@
 - Hi, I’m @TarixCat
 - I’m interested in learning the mysteries of coding and the mysteries of languages
-- I’m currently learning Java and C++ (OpenGL) and Python and a bunch of others in my spare time
+- I’m currently learning Java and CUDA C
+
+- Studying Aerospace Engineering
+- Learning about computer architecture and electronics in my spare time
 
 ---
 
-Current focus: TarixCat/tproj
-Project focus: A bunch of utilities and functions for use
+Current focus: Electronics
+Project focus: Currently designing a keyboard PCB
 
 <!---
 TarixCat/TarixCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
