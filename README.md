@@ -7,8 +7,9 @@
 
 ---
 
-Current focus: Electronics
-Project focus: Currently designing a keyboard PCB
+Current focus: Aerospace Engineering Tools
+
+Project focus: Currently designing "The Workbench"
 
 <!---
 TarixCat/TarixCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
