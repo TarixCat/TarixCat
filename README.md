@@ -1,4 +1,4 @@
-- Hi, I’m @TarixCat
+- Hi, I’m @sbalbyrne
 - I’m interested in learning the mysteries of coding and the mysteries of languages
 - I’m currently learning Java and CUDA C
 
